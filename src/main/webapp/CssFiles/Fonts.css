@@ -1,0 +1,24 @@
+/* Apply different font weights to different elements */
+.light {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 300;
+}
+
+.medium {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 500;
+}
+
+.bold {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 600;
+}
+
+.extra-bold {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 800;
+}
+.so-extra-bold {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 900;
+}
